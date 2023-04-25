@@ -1,5 +1,9 @@
 in this repo i will upload my current competitve coding updates
 
-you can learn competitve coding with me 
+checkout my profiles:
 
-thank you
+leetcode : https://leetcode.com/ronak5214/
+
+codechef : https://www.codechef.com/users/ronak5214
+
+hackerRank : https://www.hackerrank.com/Ronak5214
